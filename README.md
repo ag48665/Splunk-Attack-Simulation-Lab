@@ -81,7 +81,7 @@ T1087 - Account Discovery
 
 Account enumeration activity was detected using Sysmon process creation telemetry.
 
-![Account Discovery](screenshots/t1087_account_discovery.png)
+![Account Discovery](screenshots/account_discovery_detection.png)
 
 ---
 
